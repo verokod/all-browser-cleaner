@@ -35,7 +35,7 @@
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
-    "force_update": true,
+    "force_update": false,
     "latest_version": "1.0",
     "min_required_version": "1.0",
     "update_message": "A required update is available for All Browser Cleaner.\nPlease update now to ensure proper browser data cleaning and safety."
