@@ -2,7 +2,7 @@
 
 **Every browser. One click. Completely clean.**
 
-Clean history, cookies, cache and site data from every installed browser in one click. 100% offline and private.
+Clean history, cookies, cache and site data from every installed browser in one click. Private by design — cleaning runs entirely on your PC, and no data is ever collected or uploaded.
 
 By **[Verokod](https://github.com/verokod)**
 
@@ -10,10 +10,7 @@ By **[Verokod](https://github.com/verokod)**
 
 ## Download
 
-| Version | Link |
-|---|---|
-| **Setup (recommended)** | [AllBrowserCleaner-Setup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleaner-Setup.exe) |
-| **Portable** | [AllBrowserCleaner.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleaner.exe) |
+- **[Download All Browser Cleaner Setup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/All%20Browser%20Cleaner%20Setup.exe)** (Official Windows Installer)
 
 Free • Windows 10 & 11 • No sign-up
 
@@ -38,7 +35,7 @@ All installed browsers are detected automatically — including Google Chrome, M
 
 ## Private by design
 
-All cleaning happens on your own PC. All Browser Cleaner collects no data, has no accounts, and uploads nothing — your browsing data never leaves your machine.
+All cleaning happens on your own PC. All Browser Cleaner collects no data, has no accounts, and uploads nothing — your browsing data never leaves your machine. One honest exception to "offline": the small sponsor banners shown inside the app are downloaded from our public page on GitHub. Downloading a banner sends no information about you or your PC.
 
 ## Contact
 
