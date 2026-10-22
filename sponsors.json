@@ -27,7 +27,7 @@
   "spot_3_data": {
     "bg_color": "#ffffff",
     "border_color": "#cbd5e1",
-    "enabled": true,
+    "enabled": false,
     "footer_fg": "#94a3b8",
     "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
     "local_image": "banner_spot3.png",
@@ -35,7 +35,7 @@
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
-    "force_update": false,
+    "force_update": true,
     "latest_version": "1.0",
     "min_required_version": "1.0",
     "update_message": "A required update is available for All Browser Cleaner.\nPlease update now to ensure proper browser data cleaning and safety."
