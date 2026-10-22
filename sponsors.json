@@ -1,36 +1,43 @@
 {
-  "remote_config_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/sponsors.json",
-  "footer_text": "Sponsored • Learn more ℹ",
   "advertiser_info": {
-    "title": "Ads by All Browser Cleaner",
+    "contact_url": "https://github.com/verokod",
     "message": "Want to feature your software, app, or website here?\n\nReach thousands of privacy-conscious desktop users directly inside All Browser Cleaner!\n\nWebsite: https://naamjapvoicecounter.com",
-    "contact_url": "https://github.com/verokod"
+    "title": "Ads by All Browser Cleaner"
   },
+  "footer_text": "Sponsored • Learn more ℹ",
+  "remote_config_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/sponsors.json",
   "spot_1_header": {
-    "enabled": true,
-    "local_image": "banner_spot1.png",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
-    "target_url": "https://naamjapvoicecounter.com",
     "bg_color": "#ffffff",
     "border_color": "#e2e8f0",
-    "footer_fg": "#94a3b8"
+    "enabled": false,
+    "footer_fg": "#94a3b8",
+    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
+    "local_image": "banner_spot1.png",
+    "target_url": "https://naamjapvoicecounter.com"
   },
   "spot_2_browsers": {
-    "enabled": true,
-    "local_image": "banner_spot2.png",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
-    "target_url": "https://naamjapvoicecounter.com",
     "bg_color": "#102a43",
     "border_color": "#334155",
-    "footer_fg": "#94a3b8"
+    "enabled": false,
+    "footer_fg": "#94a3b8",
+    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
+    "local_image": "banner_spot2.png",
+    "target_url": "https://naamjapvoicecounter.com"
   },
   "spot_3_data": {
-    "enabled": true,
-    "local_image": "banner_spot3.png",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
-    "target_url": "https://naamjapvoicecounter.com",
     "bg_color": "#ffffff",
     "border_color": "#cbd5e1",
-    "footer_fg": "#94a3b8"
+    "enabled": false,
+    "footer_fg": "#94a3b8",
+    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
+    "local_image": "banner_spot3.png",
+    "target_url": "https://naamjapvoicecounter.com"
+  },
+  "version_control": {
+    "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
+    "force_update": false,
+    "latest_version": "1.0",
+    "min_required_version": "1.0",
+    "update_message": "A required update is available for All Browser Cleaner.\nPlease update now to ensure proper browser data cleaning and safety."
   }
 }
