@@ -10,7 +10,7 @@ By **[Verokod](https://github.com/verokod)**
 
 ## Download
 
-- **[Download All Browser Cleaner Setup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/All%20Browser%20Cleaner%20Setup.exe)** (Official Windows Installer)
+- **[Download All Browser Cleaner Setup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/All.Browser.Cleaner.Setup.exe)** (Official Windows Installer)
 
 Free • Windows 10 & 11 • No sign-up
 
