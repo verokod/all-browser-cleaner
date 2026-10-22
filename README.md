@@ -34,12 +34,7 @@ Bookmarks and extensions are **never** removed. Saved passwords and extension st
 
 Detection is fully automatic. You can untick any browser to leave it completely untouched.
 
-- Google Chrome
-- Microsoft Edge
-- Brave
-- Mozilla Firefox
-- Vivaldi
-- DuckDuckGo
+All installed browsers are detected automatically — including Google Chrome, Microsoft Edge, Brave, Mozilla Firefox, Opera, Vivaldi, DuckDuckGo, and more. If a browser is ever missed, it can be added manually and is remembered for future runs.
 
 ## Private by design
 
@@ -47,5 +42,5 @@ All cleaning happens on your own PC. All Browser Cleaner collects no data, has n
 
 ## Contact
 
-- Advertising: sponsor@allbrowsercleaner.com
+- Advertising & sponsorship: https://github.com/verokod
 - More from Verokod: https://github.com/verokod
