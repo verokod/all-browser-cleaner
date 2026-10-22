@@ -25,11 +25,17 @@ Free • Windows 10 & 11 • No sign-up
 - Site settings & permissions
 - Autofill data
 
-Bookmarks and extensions are **never** removed. Saved passwords and extension storage are **off by default** and require an extra confirmation. After every run, a summary shows exactly what was cleaned and how much space was freed — per browser, per data type.
+Bookmarks and extensions are **never** removed. Saved passwords and extension storage are **off by default** and require an extra confirmation. Selected browsers are asked to close gently first — force is used only if a browser does not respond.
+
+## Protect & Settings
+
+- **Protect lock** — mark any browser as Protected in the Settings tab and it can never be closed or cleaned, even by accident. Microsoft Edge is protected by default.
+- **Remember my selections** — your browser ticks are kept between runs.
+- **Activity log, in your control** — every clean ends with a summary of what was cleaned and how much space was freed, per browser, per data type. Copy it, export it, clear it, or switch log saving off in Settings.
 
 ## Supported browsers
 
-Detection is fully automatic. You can untick any browser to leave it completely untouched.
+Detection is fully automatic. You can untick any browser to leave it completely untouched — an unticked browser is never closed and never modified.
 
 All installed browsers are detected automatically — including Google Chrome, Microsoft Edge, Brave, Mozilla Firefox, Opera, Vivaldi, DuckDuckGo, and more. If a browser is ever missed, it can be added manually and is remembered for future runs.
 
