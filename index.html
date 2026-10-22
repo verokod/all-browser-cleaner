@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All Browser Cleaner — by Verokod</title>
+<meta name="description" content="Clean history, cookies, cache and site data from every installed browser in one click. 100% offline and private. Free for Windows 10 & 11.">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:"Segoe UI", Arial, sans-serif; color:#1e293b; background:#f8fafc; line-height:1.6; }
+  .wrap { max-width:960px; margin:0 auto; padding:0 20px; }
+  header { background:#0f2a43; color:#fff; padding:14px 0; }
+  header .wrap { display:flex; justify-content:space-between; align-items:center; }
+  .brand { font-size:20px; font-weight:700; letter-spacing:1px; }
+  .brand span { color:#7dd3fc; }
+  nav a { color:#cbd5e1; text-decoration:none; margin-left:22px; font-size:14px; }
+  nav a:hover { color:#fff; }
+  .hero { background:linear-gradient(180deg,#0f2a43,#164e7e); color:#fff; text-align:center; padding:64px 0 56px; }
+  .hero h1 { font-size:44px; margin-bottom:10px; }
+  .hero .tag { font-size:21px; color:#bae6fd; margin-bottom:14px; }
+  .hero p { max-width:640px; margin:0 auto 28px; color:#e2e8f0; }
+  .btn { display:inline-block; padding:13px 28px; border-radius:8px; font-size:16px; font-weight:600; text-decoration:none; margin:4px; }
+  .btn-main { background:#22c55e; color:#fff; }
+  .btn-main:hover { background:#16a34a; }
+  .btn-alt { background:transparent; color:#fff; border:1px solid #7dd3fc; }
+  .btn-alt:hover { background:rgba(125,211,252,.15); }
+  .hero .meta { margin-top:16px; font-size:13px; color:#94a3b8; }
+  section { padding:48px 0 8px; }
+  h2 { font-size:26px; color:#0f2a43; margin-bottom:8px; }
+  .sub { color:#64748b; margin-bottom:24px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; }
+  .card { background:#fff; border:1px solid #e2e8f0; border-radius:10px; padding:18px; }
+  .card h3 { font-size:16px; color:#0f2a43; margin-bottom:6px; }
+  .card p { font-size:14px; color:#475569; }
+  .browsers { display:flex; flex-wrap:wrap; gap:10px; }
+  .browsers span { background:#fff; border:1px solid #cbd5e1; border-radius:999px; padding:7px 16px; font-size:14px; font-weight:600; color:#0f2a43; }
+  .steps { counter-reset:step; }
+  .steps li { list-style:none; background:#fff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 18px; margin-bottom:12px; font-size:15px; }
+  .steps li b { color:#0f2a43; }
+  .note { background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:16px 18px; font-size:14px; color:#92400e; }
+  .privacy { background:#0f2a43; color:#e2e8f0; border-radius:12px; padding:28px; margin-top:16px; }
+  .privacy h2 { color:#fff; }
+  footer { margin-top:56px; background:#0b1e30; color:#94a3b8; padding:26px 0; font-size:13px; text-align:center; }
+  footer a { color:#7dd3fc; text-decoration:none; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand">VERO<span>KOD</span></div>
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#browsers">Browsers</a>
+      <a href="#download">Download</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero" id="download">
+  <div class="wrap">
+    <h1>All Browser Cleaner</h1>
+    <div class="tag">Every browser. One click. Completely clean.</div>
+    <p>All Browser Cleaner finds every browser installed on your PC and clears its history, cookies, cache and site data together — in a single run. No browser left behind, no manual digging through settings.</p>
+    <a class="btn btn-main" href="https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleaner-Setup.exe">Download Setup (Recommended)</a>
+    <a class="btn btn-alt" href="https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleaner.exe">Portable .exe</a>
+    <div class="meta">Free &nbsp;•&nbsp; Windows 10 &amp; 11 &nbsp;•&nbsp; No sign-up &nbsp;•&nbsp; By Verokod</div>
+  </div>
+</div>
+
+<section id="features">
+  <div class="wrap">
+    <h2>What it cleans</h2>
+    <p class="sub">You choose the data types. You choose the browsers. Everything is unticked-safe by default where it matters.</p>
+    <div class="grid">
+      <div class="card"><h3>Browsing History &amp; Downloads</h3><p>Visited pages and download history, cleared across every selected browser at once.</p></div>
+      <div class="card"><h3>Cookies</h3><p>Tracking and session cookies removed, so sites start fresh on your next visit.</p></div>
+      <div class="card"><h3>Cache</h3><p>Cached images and files that pile up over time — freed in seconds.</p></div>
+      <div class="card"><h3>Site Storage</h3><p>Local storage and offline site data left behind by websites.</p></div>
+      <div class="card"><h3>Site Settings &amp; Permissions</h3><p>Per-site permissions and content settings reset, surgically — nothing else is touched.</p></div>
+      <div class="card"><h3>Autofill Data</h3><p>Saved form entries cleared on request.</p></div>
+    </div>
+    <div class="card" style="margin-top:16px;">
+      <h3>Protected by default</h3>
+      <p>Bookmarks and extensions are <b>never</b> removed. Saved passwords and extension storage stay <b>off by default</b> and ask for an extra confirmation before they can be selected. A clear summary shows exactly what was cleaned, and how much space was freed — per browser, per data type.</p>
+    </div>
+  </div>
+</section>
+
+<section id="browsers">
+  <div class="wrap">
+    <h2>Works with your browsers</h2>
+    <p class="sub">Detection is fully automatic — installed browsers are found on their own, and you can untick any browser to leave it completely untouched.</p>
+    <div class="browsers">
+      <span>Google Chrome</span><span>Microsoft Edge</span><span>Brave</span><span>Mozilla Firefox</span><span>Vivaldi</span><span>DuckDuckGo</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>How it works</h2>
+    <ol class="steps">
+      <li><b>Step 1 —</b> Download and run All Browser Cleaner. Your installed browsers appear automatically.</li>
+      <li><b>Step 2 —</b> Tick the browsers and data types you want to clean. Unticked browsers are never closed or modified.</li>
+      <li><b>Step 3 —</b> Click Clean. Selected browsers are closed, cleaned, and a summary shows what was removed and how much space was freed.</li>
+    </ol>
+    <div class="note"><b>Install note:</b> All Browser Cleaner is new software, so Windows SmartScreen may show “Windows protected your PC” on first run. Click <b>More info</b> → <b>Run anyway</b> to continue.</div>
+    <div class="privacy">
+      <h2>Private by design</h2>
+      <p>All cleaning happens on your own PC. All Browser Cleaner collects no data, has no accounts, and uploads nothing — your browsing data never leaves your machine.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    © 2026 Verokod — All Browser Cleaner &nbsp;•&nbsp; <a href="https://github.com/verokod/all-browser-cleaner">GitHub</a> &nbsp;•&nbsp; Advertising: <a href="mailto:sponsor@allbrowsercleaner.com">sponsor@allbrowsercleaner.com</a>
+  </div>
+</footer>
+
+</body>
+</html>
