@@ -10,8 +10,8 @@ By **[Verokod](https://github.com/verokod)**
 
 ## Download
 
-- **[Get it from Microsoft Store](https://apps.microsoft.com/detail/9PJS3WD4TS8R)** — signed by Microsoft; installs and updates through the Store.
-- **[Download AllBrowserCleanerSetup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe)** — the same app as a direct installer.
+- <img src="logo-microsoft.svg" width="15" alt=""> **[Get it from Microsoft Store](https://apps.microsoft.com/detail/9PJS3WD4TS8R)** — signed by Microsoft; installs and updates through the Store.
+- <img src="icon-download.svg" width="15" alt=""> **[Download AllBrowserCleanerSetup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe)** — the same app as a direct installer.
 
 Free • Windows 10 & 11 • No sign-up
 
