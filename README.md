@@ -10,11 +10,12 @@ By **[Verokod](https://github.com/verokod)**
 
 ## Download
 
-- **[Download AllBrowserCleanerSetup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe)** (Official Windows Installer)
+- **[Get it from Microsoft Store](https://apps.microsoft.com/detail/9PJS3WD4TS8R)** — signed by Microsoft; installs and updates through the Store.
+- **[Download AllBrowserCleanerSetup.exe](https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe)** — the same app as a direct installer.
 
 Free • Windows 10 & 11 • No sign-up
 
-> **Install note:** All Browser Cleaner is new software, so Windows SmartScreen may show "Windows protected your PC" on first run. Click **More info** → **Run anyway** to continue.
+> **Install note (direct .exe only):** the .exe installer is new software, so Windows SmartScreen may show "Windows protected your PC" on first run. Click **More info** → **Run anyway** to continue. The Microsoft Store version does not show this warning.
 
 ## What it cleans
 
