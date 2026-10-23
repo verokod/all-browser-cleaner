@@ -55,6 +55,11 @@
   .shot figcaption { font-size:13px; color:#64748b; padding:10px 4px 2px; }
   .contact { text-align:center; }
   .contact p { max-width:640px; margin:0 auto 10px; color:#475569; }
+  section.alt { background:#e9f1f7; padding:48px 0 40px; }
+  .browsers span { display:inline-flex; align-items:center; gap:8px; }
+  .browsers span img { width:18px; height:18px; display:block; }
+  .steps li { position:relative; padding-left:66px; }
+  .steps li::before { counter-increment:step; content:counter(step); position:absolute; left:18px; top:50%; transform:translateY(-50%); width:32px; height:32px; border-radius:50%; background:#0f2a43; color:#fff; font-weight:700; display:flex; align-items:center; justify-content:center; font-size:16px; }
   footer { margin-top:56px; background:#0b1e30; color:#94a3b8; padding:26px 0; font-size:13px; text-align:center; }
   footer a { color:#7dd3fc; text-decoration:none; }
 </style>
@@ -127,12 +132,12 @@
   </div>
 </section>
 
-<section id="browsers">
+<section id="browsers" class="alt">
   <div class="wrap">
     <h2>Works with your browsers</h2>
     <p class="sub">Detection is fully automatic — installed browsers are found on their own, and you can untick any browser to leave it completely untouched. If a browser is ever missed, you can add it manually — it is remembered for every future run.</p>
     <div class="browsers">
-      <span>Google Chrome</span><span>Microsoft Edge</span><span>Brave</span><span>Mozilla Firefox</span><span>Opera</span><span>Vivaldi</span><span>DuckDuckGo</span><span>+ every other browser installed on your PC</span>
+      <span><img src="/all-browser-cleaner/logo-chrome.svg" alt="">Google Chrome</span><span><img src="/all-browser-cleaner/logo-edge.svg" alt="">Microsoft Edge</span><span><img src="/all-browser-cleaner/logo-brave.svg" alt="">Brave</span><span><img src="/all-browser-cleaner/logo-firefox.svg" alt="">Mozilla Firefox</span><span><img src="/all-browser-cleaner/logo-opera.svg" alt="">Opera</span><span><img src="/all-browser-cleaner/logo-vivaldi.svg" alt="">Vivaldi</span><span><img src="/all-browser-cleaner/logo-duckduckgo.svg" alt="">DuckDuckGo</span><span>+ every other browser installed on your PC</span>
     </div>
   </div>
 </section>
@@ -141,9 +146,9 @@
   <div class="wrap">
     <h2>How it works</h2>
     <ol class="steps">
-      <li><b>Step 1 —</b> Download and run All Browser Cleaner. Your installed browsers appear automatically.</li>
-      <li><b>Step 2 —</b> Tick the browsers and data types you want to clean. Unticked browsers are never closed or modified.</li>
-      <li><b>Step 3 —</b> Click Clean. Selected browsers are closed gently, cleaned, and a summary shows what was removed and how much space was freed.</li>
+      <li><b>Download and run</b> All Browser Cleaner — your installed browsers appear automatically.</li>
+      <li><b>Tick the browsers and data types</b> you want to clean. Unticked browsers are never closed or modified.</li>
+      <li><b>Click Clean.</b> Selected browsers are closed gently, cleaned, and a summary shows what was removed and how much space was freed.</li>
     </ol>
     <div class="note"><b>Install note (direct .exe download only):</b> the .exe installer is new software, so Windows SmartScreen may show “Windows protected your PC” on first run. Click <b>More info</b> → <b>Run anyway</b> to continue. The Microsoft Store version does not show this warning.</div>
     <div class="privacy">
@@ -153,7 +158,7 @@
   </div>
 </section>
 
-<section class="contact">
+<section class="contact alt">
   <div class="wrap">
     <h2>Questions or feedback?</h2>
     <p>Most answers are in the <a href="/all-browser-cleaner/faq">FAQ</a>. For anything else — bugs, ideas, sponsorship — write to us at <a href="mailto:verokod.support@gmail.com">verokod.support@gmail.com</a>. We read every message.</p>
