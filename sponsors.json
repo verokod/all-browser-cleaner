@@ -47,13 +47,13 @@
   },
   "announcement": {
     "enabled": true,
-    "title": "Special Announcement",
-    "message": "🎉 [Live Remote Test] Welcome to All Browser Cleaner v1.1! This is a live announcement popup test.",
-    "link": "https://naamjapvoicecounter.com"
+    "title": "",
+    "message": "",
+    "link": ""
   },
   "extra_button": {
     "enabled": false,
-    "label": "",
-    "url": ""
+    "label": "Hi",
+    "url": "https://github.com/naamjapvoicecounter"
   }
 }
