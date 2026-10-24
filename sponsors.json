@@ -20,9 +20,9 @@
         "bg_color": "#ffffff"
       },
       {
-        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
-        "local_image": "banner_spot2.png",
-        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1s.png",
+        "local_image": "banner_spot1s.png",
+        "target_url": "https://youtube.com/@NaamJapVoiceCounter",
         "bg_color": "#102a43"
       }
     ]
@@ -41,9 +41,9 @@
         "bg_color": "#102a43"
       },
       {
-        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
-        "local_image": "banner_spot3.png",
-        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2s.png",
+        "local_image": "banner_spot2s.png",
+        "target_url": "https://www.facebook.com/NaamJapVoiceCounter",
         "bg_color": "#ffffff"
       }
     ]
@@ -62,9 +62,9 @@
         "bg_color": "#ffffff"
       },
       {
-        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
-        "local_image": "banner_spot1.png",
-        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3s.png",
+        "local_image": "banner_spot3s.png",
+        "target_url": "https://instagram.com/naamjapvoicecounter",
         "bg_color": "#ffffff"
       }
     ]
