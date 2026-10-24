@@ -93,7 +93,7 @@
     "url": ""
   },
   "footer_wish": {
-    "enabled": true,
+    "enabled": false,
     "text": "💡 Tip: Clean weekly for best performance",
     "link": "",
     "color": "#c68b2c"
