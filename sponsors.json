@@ -11,7 +11,7 @@
     "border_color": "#e2e8f0",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "rotate_seconds": 8,
+    "rotate_seconds": 15,
     "items": [
       {
         "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
@@ -32,7 +32,7 @@
     "border_color": "#334155",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "rotate_seconds": 8,
+    "rotate_seconds": 15,
     "items": [
       {
         "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
@@ -53,7 +53,7 @@
     "border_color": "#cbd5e1",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "rotate_seconds": 8,
+    "rotate_seconds": 15,
     "items": [
       {
         "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
