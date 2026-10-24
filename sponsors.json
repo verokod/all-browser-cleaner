@@ -9,7 +9,7 @@
   "spot_1_header": {
     "bg_color": "#ffffff",
     "border_color": "#e2e8f0",
-    "enabled": true,
+    "enabled": false,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -30,7 +30,7 @@
   "spot_2_browsers": {
     "bg_color": "#102a43",
     "border_color": "#334155",
-    "enabled": true,
+    "enabled": false,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -51,7 +51,7 @@
   "spot_3_data": {
     "bg_color": "#ffffff",
     "border_color": "#cbd5e1",
-    "enabled": true,
+    "enabled": false,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
