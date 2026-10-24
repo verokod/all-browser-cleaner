@@ -11,27 +11,63 @@
     "border_color": "#e2e8f0",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
-    "local_image": "banner_spot1.png",
-    "target_url": "https://naamjapvoicecounter.com"
+    "rotate_seconds": 8,
+    "items": [
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
+        "local_image": "banner_spot1.png",
+        "target_url": "https://naamjapvoicecounter.com",
+        "bg_color": "#ffffff"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
+        "local_image": "banner_spot2.png",
+        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "bg_color": "#102a43"
+      }
+    ]
   },
   "spot_2_browsers": {
     "bg_color": "#102a43",
     "border_color": "#334155",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
-    "local_image": "banner_spot2.png",
-    "target_url": "https://naamjapvoicecounter.com"
+    "rotate_seconds": 8,
+    "items": [
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot2.png",
+        "local_image": "banner_spot2.png",
+        "target_url": "https://naamjapvoicecounter.com",
+        "bg_color": "#102a43"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
+        "local_image": "banner_spot3.png",
+        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "bg_color": "#ffffff"
+      }
+    ]
   },
   "spot_3_data": {
     "bg_color": "#ffffff",
     "border_color": "#cbd5e1",
     "enabled": true,
     "footer_fg": "#94a3b8",
-    "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
-    "local_image": "banner_spot3.png",
-    "target_url": "https://naamjapvoicecounter.com"
+    "rotate_seconds": 8,
+    "items": [
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot3.png",
+        "local_image": "banner_spot3.png",
+        "target_url": "https://naamjapvoicecounter.com",
+        "bg_color": "#ffffff"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/banner_spot1.png",
+        "local_image": "banner_spot1.png",
+        "target_url": "https://verokod.github.io/all-browser-cleaner/",
+        "bg_color": "#ffffff"
+      }
+    ]
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
@@ -55,5 +91,11 @@
     "enabled": false,
     "label": "",
     "url": ""
+  },
+  "footer_wish": {
+    "enabled": true,
+    "text": "💡 Tip: Clean weekly for best performance",
+    "link": "",
+    "color": "#c68b2c"
   }
 }
