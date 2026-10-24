@@ -52,7 +52,7 @@
     "link": ""
   },
   "extra_button": {
-    "enabled": false,
+    "enabled": true,
     "label": "GITHUB",
     "url": "https://github.com/naamjapvoicecounter"
   }
