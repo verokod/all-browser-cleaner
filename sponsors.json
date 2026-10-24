@@ -42,8 +42,8 @@
   },
   "notice": {
     "enabled": true,
-    "text": "📢 [Live Test] All Browser Cleaner v1.1 is active! Click here to visit our official website.",
-    "link": "https://naamjapvoicecounter.com"
+    "text": "",
+    "link": ""
   },
   "announcement": {
     "enabled": true,
