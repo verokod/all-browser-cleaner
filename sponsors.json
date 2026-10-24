@@ -41,19 +41,19 @@
     "update_message": "A required update is available for All Browser Cleaner.\nPlease update now to ensure proper browser data cleaning and safety."
   },
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "text": "",
     "link": ""
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "title": "",
     "message": "",
     "link": ""
   },
   "extra_button": {
-    "enabled": true,
-    "label": "GITHUB",
-    "url": "https://github.com/naamjapvoicecounter"
+    "enabled": false,
+    "label": "",
+    "url": ""
   }
 }
