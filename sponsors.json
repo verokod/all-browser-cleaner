@@ -93,8 +93,8 @@
     "url": ""
   },
   "footer_wish": {
-    "enabled": false,
-    "text": "💡 Tip: Clean weekly for best performance",
+    "enabled": true,
+    "text": "Happy Diwali",
     "link": "",
     "color": "#c68b2c"
   }
