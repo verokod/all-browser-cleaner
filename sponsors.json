@@ -25,7 +25,9 @@
         "target_url": "https://youtube.com/@NaamJapVoiceCounter",
         "bg_color": "#102a43"
       }
-    ]
+    ],
+    "width": 540,
+    "height": 58
   },
   "spot_2_browsers": {
     "bg_color": "#102a43",
@@ -46,7 +48,9 @@
         "target_url": "https://www.facebook.com/NaamJapVoiceCounter",
         "bg_color": "#ffffff"
       }
-    ]
+    ],
+    "width": 200,
+    "height": 440
   },
   "spot_3_data": {
     "bg_color": "#ffffff",
@@ -67,7 +71,9 @@
         "target_url": "https://instagram.com/naamjapvoicecounter",
         "bg_color": "#ffffff"
       }
-    ]
+    ],
+    "width": 270,
+    "height": 320
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
@@ -117,7 +123,9 @@
         "target_url": "https://youtube.com/@NaamJapVoiceCounter",
         "bg_color": "#ffffff"
       }
-    ]
+    ],
+    "width": 540,
+    "height": 58
   },
   "spot_4_footer": {
     "bg_color": "#ffffff",
@@ -138,6 +146,8 @@
         "target_url": "https://youtube.com/@NaamJapVoiceCounter",
         "bg_color": "#102a43"
       }
-    ]
+    ],
+    "width": 540,
+    "height": 58
   }
 }
