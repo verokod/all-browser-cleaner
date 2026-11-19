@@ -5,7 +5,7 @@
     "message": "Want to feature your software, app, or website here?\n\nReach thousands of privacy-conscious desktop users directly inside All Browser Cleaner!\n\nWebsite: https://verokod.github.io/all-browser-cleaner/",
     "title": "Ads by All Browser Cleaner"
   },
-  "footer_text": "Sponsored \u2022 Learn more \u2139",
+  "footer_text": "Sponsored • Learn more ℹ",
   "remote_config_url": "https://raw.githubusercontent.com/verokod/all-browser-cleaner/main/sponsors.json",
   "spot_1_header": {
     "bg_color": "#ffffff",
@@ -74,7 +74,7 @@
       }
     ],
     "width": 270,
-    "height": 320
+    "height": 450
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
@@ -101,7 +101,7 @@
   },
   "footer_wish": {
     "enabled": false,
-    "text": "\ud83d\udca1 Tip: Clean weekly for best performance",
+    "text": "💡 Tip: Clean weekly for best performance",
     "link": "",
     "color": "#c68b2c"
   },
