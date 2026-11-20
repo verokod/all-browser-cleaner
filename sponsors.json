@@ -1,5 +1,5 @@
 {
-  "config_version": 301,
+  "config_version": 302,
   "advertiser_info": {
     "contact_url": "https://github.com/verokod",
     "message": "Want to feature your software, app, or website here?\n\nReach thousands of privacy-conscious desktop users directly inside All Browser Cleaner!\n\nWebsite: https://verokod.github.io/all-browser-cleaner/",
@@ -10,7 +10,7 @@
   "spot_1_header": {
     "bg_color": "#ffffff",
     "border_color": "#e2e8f0",
-    "enabled": false,
+    "enabled": true,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -33,7 +33,7 @@
   "spot_2_browsers": {
     "bg_color": "#102a43",
     "border_color": "#334155",
-    "enabled": false,
+    "enabled": true,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -56,7 +56,7 @@
   "spot_3_data": {
     "bg_color": "#ffffff",
     "border_color": "#cbd5e1",
-    "enabled": false,
+    "enabled": true,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -79,9 +79,9 @@
   },
   "version_control": {
     "download_url": "https://github.com/verokod/all-browser-cleaner/releases/latest/download/AllBrowserCleanerSetup.exe",
-    "force_update": false,
+    "force_update": true,
     "latest_version": "3.0",
-    "min_required_version": "1.2",
+    "min_required_version": "3.0",
     "update_message": "A required update is available for All Browser Cleaner.\nPlease update now to ensure proper browser data cleaning and safety."
   },
   "notice": {
@@ -109,7 +109,7 @@
   "spot_5_dash_header": {
     "bg_color": "#ffffff",
     "border_color": "#e2e8f0",
-    "enabled": false,
+    "enabled": true,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
@@ -132,7 +132,7 @@
   "spot_4_footer": {
     "bg_color": "#ffffff",
     "border_color": "#e2e8f0",
-    "enabled": false,
+    "enabled": true,
     "footer_fg": "#94a3b8",
     "rotate_seconds": 15,
     "items": [
