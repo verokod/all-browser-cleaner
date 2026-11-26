@@ -1,5 +1,5 @@
 {
-  "config_version": 318,
+  "config_version": 319,
   "advertiser_info": {
     "contact_url": "https://github.com/verokod",
     "message": "Want to feature your software, app, or website here?\n\nReach thousands of privacy-conscious desktop users directly inside All Browser Cleaner!\n\nWebsite: https://verokod.github.io/all-browser-cleaner/",
@@ -90,9 +90,9 @@
     "link": ""
   },
   "announcement": {
-    "enabled": true,
-    "title": "Hi",
-    "message": "Hi",
+    "enabled": false,
+    "title": "",
+    "message": "",
     "link": ""
   },
   "extra_button": {
