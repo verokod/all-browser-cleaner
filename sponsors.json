@@ -1,5 +1,5 @@
 {
-  "config_version": 315,
+  "config_version": 316,
   "advertiser_info": {
     "contact_url": "https://github.com/verokod",
     "message": "Want to feature your software, app, or website here?\n\nReach thousands of privacy-conscious desktop users directly inside All Browser Cleaner!\n\nWebsite: https://verokod.github.io/all-browser-cleaner/",
@@ -96,12 +96,12 @@
     "link": ""
   },
   "extra_button": {
-    "enabled": false,
-    "label": "",
-    "url": ""
+    "enabled": true,
+    "label": "Github",
+    "url": "https://naamjapvoicecounter.com"
   },
   "footer_wish": {
-    "enabled": true,
+    "enabled": false,
     "text": "💡 Tip: Clean weekly for best performance",
     "link": "",
     "color": "#c68b2c"
